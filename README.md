@@ -1,4 +1,4 @@
-# randompasswd - Random Password Generator in C
+# Random Password Generator in C - randompasswd
 
 This program generates random passwords of a specified length and strength, using the Dev C++ compiler. The user inputs the desired length and strength of the password, and the program generates a password using a random character set that includes letters, numbers, and special characters.
 
