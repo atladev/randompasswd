@@ -6,7 +6,7 @@ The code is written in C, and is easy to understand and modify. Feel free to use
 
 # Usage
 
-To use the program, simply compile and run the code in Dev C++. The program will prompt you to enter the desired length and strength of the password, and will then generate a password accordingly.
+To use the program, simply compile and run the code. The program will prompt you to enter the desired length and strength of the password, and will then generate a password accordingly.
 
 # Contribute
 
